@@ -20,7 +20,7 @@ export default {
 
 
 
-<style lang="scss">
+<style lang="scss" scoped>
 .pok-card {
     padding: 10px;
     background-color: azure;
